@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 4dcc95594ae08ce4792437217aa7320b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2733947253918759555
+    second: Bull_walk_0
+  - first:
+      213: 2275306580400924312
+    second: Bull_walk_1
+  - first:
+      213: -1102349842402217806
+    second: Bull_walk_2
+  - first:
+      213: -859071857970523357
+    second: Bull_walk_3
+  - first:
+      213: -5440756497973320166
+    second: Bull_walk_4
+  - first:
+      213: 5173629371867199540
+    second: Bull_walk_5
+  - first:
+      213: 8682039619108668615
+    second: Bull_walk_6
+  - first:
+      213: -2425594768845133483
+    second: Bull_walk_7
+  - first:
+      213: -5249877142611892314
+    second: Bull_walk_8
+  - first:
+      213: 2582035489626505638
+    second: Bull_walk_9
+  - first:
+      213: -6093050823084183707
+    second: Bull_walk_10
+  - first:
+      213: 2292985217683641112
+    second: Bull_walk_11
+  - first:
+      213: -2709158565261038773
+    second: Bull_walk_12
+  - first:
+      213: -5345052086413977129
+    second: Bull_walk_13
+  - first:
+      213: -8919304531654920361
+    second: Bull_walk_14
+  - first:
+      213: -4886399236004345514
+    second: Bull_walk_15
+  - first:
+      213: 1970430414001378766
+    second: Bull_walk_16
+  - first:
+      213: -7909937262049587508
+    second: Bull_walk_17
+  - first:
+      213: 5820754966424309319
+    second: Bull_walk_18
+  - first:
+      213: -7836314681224927291
+    second: Bull_walk_19
+  - first:
+      213: -1416705064178199894
+    second: Bull_walk_20
+  - first:
+      213: -5776382220455978610
+    second: Bull_walk_21
+  - first:
+      213: 9191875566137269280
+    second: Bull_walk_22
+  - first:
+      213: 8719013476034193631
+    second: Bull_walk_23
+  - first:
+      213: -4265889667505139122
+    second: Bull_walk_24
+  - first:
+      213: -6515121440923860424
+    second: Bull_walk_25
+  - first:
+      213: 7961298775329905543
+    second: Bull_walk_26
+  - first:
+      213: -8662959982841866863
+    second: Bull_walk_27
+  - first:
+      213: 1952733583530460491
+    second: Bull_walk_28
+  - first:
+      213: -3300363280678012347
+    second: Bull_walk_29
+  - first:
+      213: 795897504941987969
+    second: Bull_walk_30
+  - first:
+      213: 9141622436496014575
+    second: Bull_walk_31
+  - first:
+      213: -3165466388561895916
+    second: Bull_walk_32
+  - first:
+      213: -369137869802486387
+    second: Bull_walk_33
+  - first:
+      213: 8509090968668856311
+    second: Bull_walk_34
+  - first:
+      213: -6388753877008835713
+    second: Bull_walk_35
+  - first:
+      213: 9174935508411250292
+    second: Bull_walk_36
+  - first:
+      213: 139114990637553444
+    second: Bull_walk_37
+  - first:
+      213: -6490288923973545994
+    second: Bull_walk_38
+  - first:
+      213: -6593244249744168609
+    second: Bull_walk_39
+  - first:
+      213: -8583719800446909138
+    second: Bull_walk_40
+  - first:
+      213: 8675609145532352432
+    second: Bull_walk_41
+  - first:
+      213: 679256637381986780
+    second: Bull_walk_42
+  - first:
+      213: -2208321427153503696
+    second: Bull_walk_43
+  - first:
+      213: 9085315407010542025
+    second: Bull_walk_44
+  - first:
+      213: -1523557494211571054
+    second: Bull_walk_45
+  - first:
+      213: -138743294889118395
+    second: Bull_walk_46
+  - first:
+      213: 8993861035551138104
+    second: Bull_walk_47
+  - first:
+      213: -1837290647591333120
+    second: Bull_walk_48
+  - first:
+      213: -6400867335325546339
+    second: Bull_walk_49
+  - first:
+      213: -7973305568452761156
+    second: Bull_walk_50
+  - first:
+      213: 3151715101430919170
+    second: Bull_walk_51
+  - first:
+      213: -9105559346648268317
+    second: Bull_walk_52
+  - first:
+      213: 6363982804830543180
+    second: Bull_walk_53
+  - first:
+      213: 950250253832063029
+    second: Bull_walk_54
+  - first:
+      213: 8231530493846627533
+    second: Bull_walk_55
+  - first:
+      213: -8175392469286334831
+    second: Bull_walk_56
+  - first:
+      213: 6515970022370050180
+    second: Bull_walk_57
+  - first:
+      213: 5978357429815553859
+    second: Bull_walk_58
+  - first:
+      213: 7528561547413070543
+    second: Bull_walk_59
+  - first:
+      213: -4272950040182911898
+    second: Bull_walk_60
+  - first:
+      213: 2907702126984081615
+    second: Bull_walk_61
+  - first:
+      213: 1732444532576819456
+    second: Bull_walk_62
+  - first:
+      213: 6720711427786957614
+    second: Bull_walk_63
+  - first:
+      213: -8995207628077211584
+    second: Bull_walk_64
+  - first:
+      213: 2061966082178075436
+    second: Bull_walk_65
+  - first:
+      213: 1364068039540518306
+    second: Bull_walk_66
+  - first:
+      213: -4206913498197534095
+    second: Bull_walk_67
+  - first:
+      213: 8435518856848241967
+    second: Bull_walk_68
+  - first:
+      213: 5848987321502969599
+    second: Bull_walk_69
+  - first:
+      213: -7000519026626010587
+    second: Bull_walk_70
+  - first:
+      213: 4956942292862501368
+    second: Bull_walk_71
+  - first:
+      213: -4199139040667084397
+    second: Bull_walk_72
+  - first:
+      213: -298421796139651458
+    second: Bull_walk_73
+  - first:
+      213: 3116576687730043934
+    second: Bull_walk_74
+  - first:
+      213: 2468762445815751334
+    second: Bull_walk_75
+  - first:
+      213: 5202859340230532465
+    second: Bull_walk_76
+  - first:
+      213: 494839527772342048
+    second: Bull_walk_77
+  - first:
+      213: 2065992671297050041
+    second: Bull_walk_78
+  - first:
+      213: 3842969778532727579
+    second: Bull_walk_79
+  - first:
+      213: 5868240719934263798
+    second: Bull_walk_80
+  - first:
+      213: -1191919733413484341
+    second: Bull_walk_81
+  - first:
+      213: 1364365081969290009
+    second: Bull_walk_82
+  - first:
+      213: 4946910340372515821
+    second: Bull_walk_83
+  - first:
+      213: -6589924783162948408
+    second: Bull_walk_84
+  - first:
+      213: -4589696518289160735
+    second: Bull_walk_85
+  - first:
+      213: 2377786713945244048
+    second: Bull_walk_86
+  - first:
+      213: -8541816024884310811
+    second: Bull_walk_87
+  - first:
+      213: -8458516283288622000
+    second: Bull_walk_88
+  - first:
+      213: 1865745761185214166
+    second: Bull_walk_89
+  - first:
+      213: 8580024400666129394
+    second: Bull_walk_90
+  - first:
+      213: 6458066099823900385
+    second: Bull_walk_91
+  - first:
+      213: 8682936787732269248
+    second: Bull_walk_92
+  - first:
+      213: 6810618219185035082
+    second: Bull_walk_93
+  - first:
+      213: 4241845245205458840
+    second: Bull_walk_94
+  - first:
+      213: 5238457698518433435
+    second: Bull_walk_95
+  - first:
+      213: -2290542983580800808
+    second: Bull_walk_96
+  - first:
+      213: 7159499360997971568
+    second: Bull_walk_97
+  - first:
+      213: 1448338834025255121
+    second: Bull_walk_98
+  - first:
+      213: 8726299537482376803
+    second: Bull_walk_99
+  - first:
+      213: 8891662661070326433
+    second: Bull_walk_100
+  - first:
+      213: -1362176166347448375
+    second: Bull_walk_101
+  - first:
+      213: 3351455521162155953
+    second: Bull_walk_102
+  - first:
+      213: -1809823880527861960
+    second: Bull_walk_103
+  - first:
+      213: 2553321273471793222
+    second: Bull_walk_104
+  - first:
+      213: 6943610927372861332
+    second: Bull_walk_105
+  - first:
+      213: 8060813598778119121
+    second: Bull_walk_106
+  - first:
+      213: 3137270849972448739
+    second: Bull_walk_107
+  - first:
+      213: 5168997027365380759
+    second: Bull_walk_108
+  - first:
+      213: -820680447039855649
+    second: Bull_walk_109
+  - first:
+      213: 6505727773875313876
+    second: Bull_walk_110
+  - first:
+      213: 2216714461608959510
+    second: Bull_walk_111
+  - first:
+      213: -1107134160514555537
+    second: Bull_walk_112
+  - first:
+      213: -5671268302907861329
+    second: Bull_walk_113
+  - first:
+      213: 4342719847600453828
+    second: Bull_walk_114
+  - first:
+      213: 4519684865698199893
+    second: Bull_walk_115
+  - first:
+      213: 1118334316202525721
+    second: Bull_walk_116
+  - first:
+      213: 8602249328189300485
+    second: Bull_walk_117
+  - first:
+      213: 8227331262149232355
+    second: Bull_walk_118
+  - first:
+      213: -6627973212907532987
+    second: Bull_walk_119
+  - first:
+      213: -7132916888441079740
+    second: Bull_walk_120
+  - first:
+      213: 6283711650121508061
+    second: Bull_walk_121
+  - first:
+      213: 5919914435401821208
+    second: Bull_walk_122
+  - first:
+      213: -53625814945956602
+    second: Bull_walk_123
+  - first:
+      213: 8879075995540474534
+    second: Bull_walk_124
+  - first:
+      213: -2698921343642172993
+    second: Bull_walk_125
+  - first:
+      213: 2025421539752946667
+    second: Bull_walk_126
+  - first:
+      213: -7815413023140048293
+    second: Bull_walk_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bull_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75848725711f0ad0800000000000000
+      internalID: -2733947253918759555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896e7ef9743839f10800000000000000
+      internalID: 2275306580400924312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b07869a8aaa3b0f0800000000000000
+      internalID: -1102349842402217806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d12d52b6f314f0800000000000000
+      internalID: -859071857970523357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16e6ec9acc8e74b0800000000000000
+      internalID: -5440756497973320166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438fbada08c6cc740800000000000000
+      internalID: 5173629371867199540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c407deb80dcc7870800000000000000
+      internalID: 8682039619108668615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a0f9b86e865ed0800000000000000
+      internalID: -2425594768845133483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7ec28cd80b427b0800000000000000
+      internalID: -5249877142611892314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1c3acf89b35d320800000000000000
+      internalID: 2582035489626505638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f6aab0f82217ba0800000000000000
+      internalID: -6093050823084183707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813514f18e152df10800000000000000
+      internalID: 2292985217683641112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ba86d73a2276ad0800000000000000
+      internalID: -2709158565261038773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9955b527f82d5b0800000000000000
+      internalID: -5345052086413977129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573d23f8c3483480800000000000000
+      internalID: -8919304531654920361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659883bb8c5003cb0800000000000000
+      internalID: -4886399236004345514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec59d219500685b10800000000000000
+      internalID: 1970430414001378766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce88e308f14a3290800000000000000
+      internalID: -7909937262049587508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ecf426dc977c050800000000000000
+      internalID: 5820754966424309319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7e865e051df3390800000000000000
+      internalID: -7836314681224927291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 311
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2592a004ad65ce0800000000000000
+      internalID: -1416705064178199894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d6de99fa26dfa0800000000000000
+      internalID: -5776382220455978610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c5433702a109f70800000000000000
+      internalID: 9191875566137269280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8acd6af88200970800000000000000
+      internalID: 8719013476034193631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d855f2f38cc4c0800000000000000
+      internalID: -4265889667505139122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c33d6193a595a0800000000000000
+      internalID: -6515121440923860424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b9a4e2e073c7e60800000000000000
+      internalID: 7961298775329905543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195594f3bcbf6c780800000000000000
+      internalID: -8662959982841866863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450f4329d0891b10800000000000000
+      internalID: 1952733583530460491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab1711511c232d0800000000000000
+      internalID: -3300363280678012347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188dfab50989b0b00800000000000000
+      internalID: 795897504941987969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bull_walk_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf51eeb219dde70800000000000000
+      internalID: 9141622436496014575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
